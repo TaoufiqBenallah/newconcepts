@@ -12,7 +12,7 @@ function App() {
       <Link to="/panel">Panel</Link>
       <Switch>
         <Route exact path="/" component={ListeProducts}></Route>
-        <Route exact path="/" component={ListePanel}></Route>
+        <Route path="/panel" component={ListePanel}></Route>
       </Switch>
     </BrowserRouter>
   );
