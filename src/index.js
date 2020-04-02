@@ -12,6 +12,7 @@ import rootSaga from "./Redux/saga";
 
 /* Comment Here - Last One */
 /* TESTS STASH */
+/* TESTS STASH WITH NAME*/
 
 const sagaMiddleware = createSagaMiddleware();
 const store = createStore(reducers, applyMiddleware(sagaMiddleware));
