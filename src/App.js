@@ -8,7 +8,7 @@ import { theme } from "./theme";
 import ListeProductsTwo from "./ListeProductsTwo";
 import Axios from "axios";
 
-// remote BeluxUser after change
+// remote BeluxUser after change after fixing a bug
 
 const StyledLink = styled(Link)`
   display: inline-block;
