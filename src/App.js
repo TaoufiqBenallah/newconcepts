@@ -8,7 +8,7 @@ import { theme } from "./theme";
 import ListeProductsTwo from "./ListeProductsTwo";
 import Axios from "axios";
 
-// 
+// remote
 
 const StyledLink = styled(Link)`
   display: inline-block;
